@@ -319,7 +319,7 @@ const Services = () => {
   return (
     <ServiceSection id="services">
       <Background ref={ref}>
-        <Title className="title">What We Do</Title>
+        <Title className="title">Ce que nous faisons</Title>
         <Line id="line" />
         <Triangle id="triangle" />
       </Background>
@@ -327,10 +327,10 @@ const Services = () => {
       <Content ref={addToRefs}>
         <TextBlock
           topic="Design"
-          title={<h1>We build award winning Designs</h1>}
+          title={<h1>Nous produisons des design haute-gamme</h1>}
           subText={
             <h5>
-              We help clients to build great design to attract more customers
+              Nous aidons les clients à créer des design pour attirer une plus grande clientel
             </h5>
           }
         />
@@ -342,11 +342,11 @@ const Services = () => {
       <Content ref={addToRefs}>
         <TextBlock
           topic="Develop"
-          title={<h1>We Develope high quality Web & App</h1>}
+          title={<h1>Nous développons des applications web de haute qualité</h1>}
           subText={
             <h5>
-              We build appropriate solution to develope your website & app with
-              best tools available
+              Nous trouvons les solutions adaptée pour développer votre site web
+              avec les meilleurs outils disponibles
             </h5>
           }
         />
@@ -358,12 +358,13 @@ const Services = () => {
       <Content>
         <TextBlock
           topic="Support"
-          title={<h1>We provide support for your digital presence</h1>}
+          title={<h1>Nous accompagnons votre présence digitale</h1>}
           subText={
             <h5>
-              Once your system is online, we will stay on hand to help you use
-              it and provide technical support and maintenance <br /> your
-              business
+              Une fois votre système en ligne, nous resterons à <br/>
+              votre disposition pour vous aider à l'utiliser <br/>
+              et fournir un support technique et une <br/>
+              maintenance pour votre activité.<br/>
             </h5>
           }
         />

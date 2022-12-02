@@ -191,14 +191,14 @@ const HeroSection = () => {
         <Lb id="leftBlock">
           <Topic>
             <Circle />
-            <span>We Build Web</span>
+            <span>Nous façonnons le Web</span>
           </Topic>
-          <Title>Transforming your digital presence</Title>
+          <Title>Transformez votre présence digitale</Title>
           <SubText>
-            we help fast growing companies build award winning websites
+          Nous aidons à la croissance rapide de votre entreprise en construisant un sit
           </SubText>
           <CTA>
-            Get in touch &nbsp;
+            Démarrer &nbsp;
             <img src={arrow} alt="cta" width="100" height="100" />
           </CTA>
         </Lb>

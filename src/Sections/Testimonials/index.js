@@ -80,33 +80,22 @@ const Testimonials = () => {
 
   return (
     <Section>
-      <Title>Few good words about us!</Title>
+      <Title>Quelques bons avis sur nous</Title>
       <Carousal>
         <Slider {...settings}>
           <Card
-            text="CodeBucks has been essential part of our business. I would definetly
-        recommend CodeBucks. It has been amazing to have them."
-            name="Jenny (CodeCall)"
+            text="Merci à Locs de AlvisMedia pour toute l'aide que tu nous a apporté. Ça a été essentiel pour notre entreprise. Je recommande pleinenement
+            C'était un plaisir de travailler avec vous."
+            name="Rebecca"
             image="avatar-1"
           />
 
           <Card
-            text="CodeBucks has been essential part of our business. I would definetly recommend CodeBucks. It has been amazing to have them."
+            text="AlvisMedia has been essential part of our business. I would definetly recommend AlvisMedia. It has been amazing to have them."
             name="Jenny (CodeCall)"
             image="avatar-2"
           />
 
-          <Card
-            text="CodeBucks has been essential part of our business. I would definetly recommend CodeBucks. It has been amazing to have them."
-            name="Jenny (CodeCall)"
-            image="avatar-3"
-          />
-
-          <Card
-            text="CodeBucks has been essential part of our business. I would definetly recommend CodeBucks. It has been amazing to have them."
-            name="Jenny (CodeCall)"
-            image="avatar-4"
-          />
         </Slider>
       </Carousal>
     </Section>

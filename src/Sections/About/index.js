@@ -126,7 +126,7 @@ const About = () => {
       </Hand>
       <Main>
         <div>
-          <Title>About Us</Title>
+          <Title>Qui sommes-nous</Title>
           <CurvedLine />
         </div>
         <Content>
@@ -139,10 +139,11 @@ const About = () => {
             </Human>
 
             <Text>
-              We help our customers to tell about themselves, to grow and stand
-              out in an increasingly competitive digital world, through creative
-              projects that are able to attract and involve, creating strategic
-              value.
+
+              Nous aidons nos clients à en dire sur eux-même, à grandir et à se 
+              démarquer dans un monde digital de plus en plus concurrenciel au 
+              travers de projets créatifs capable d'attirer d'impliquer, créant 
+              une valeur stratégique.
             </Text>
             <div>
               <Circle style={{ backgroundColor: "var(--purple)" }} />
